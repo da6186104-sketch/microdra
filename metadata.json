@@ -1,0 +1,6 @@
+{
+  "name": "MicroDrama AI Studio Pro",
+  "description": "Professional micro-drama creation platform with Gmail login, character sheets, 10s frame-by-frame scene breakdown, AI scriptwriter, and AdMob monetization SDK integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
